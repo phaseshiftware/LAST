@@ -1,0 +1,12 @@
+cp.log
+gui.rpy
+options.rpy
+screens.rpy
+
+cache
+gui
+images
+saves
+tl
+
+*rpyc
